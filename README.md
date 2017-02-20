@@ -16,7 +16,7 @@ server {
     server_name  _;
     
     location / {
-        root   /usr/share/nginx/modaiwuhua/public;
+        root   YOURWEBROOT/yaf_plus_plus/public;
         index  index.php index.html index.htm;
 
         if (!-e $request_filename){
@@ -25,7 +25,7 @@ server {
     }
 
     location ~ \.php$ {
-        root           /usr/share/nginx/modaiwuhua/public;
+        root           YOURWEBROOT/yaf_plus_plus/public;
         fastcgi_pass   php-fpm;
         fastcgi_index  index.php;
         fastcgi_param  SCRIPT_FILENAME  $document_root$fastcgi_script_name;
