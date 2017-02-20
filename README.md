@@ -33,3 +33,15 @@ server {
     }
 }
 ```
+
+## Tips
+if `composer` is very slow, please add this to your `composer.json`.
+```
+"repositories": {
+    "packagist": {
+        "type": "composer",
+        "url": "https://packagist.phpcomposer.com"
+    }
+}
+```
+
