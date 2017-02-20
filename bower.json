@@ -1,9 +1,9 @@
 {
-  "name": "modaiwuhua",
-  "description": "modaiwuhua",
+  "name": "yaf_plus_plus",
+  "description": "yaf_plus_plus",
   "main": "site.js",
   "keywords": [
-    "modaiwuhua"
+    "yaf_plus_plus"
   ],
   "authors": [
     "liuguilong"
