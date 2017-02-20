@@ -5,7 +5,7 @@ yaf + composer + bower
 - User `composer` & `bower` to intall all needed packages 
 ```
     git clone git@github.com:forevernull/yaf_plus_plus.git YOURWEBROOT
-    cd YOURWEBROOT
+    cd YOURWEBROOT/yaf_plus_plus
     bower install
     composer install 
 ```
