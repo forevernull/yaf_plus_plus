@@ -1,8 +1,8 @@
-# yaf_plus_plus
-yaf + composer + bower
+# yaf++
+yaf++ is one advanced web [application] framework.
 
 ## Getting started
-- User `composer` & `bower` to intall all needed packages 
+- Use `composer` & `bower` to intall all needed packages 
 ```
     git clone git@github.com:forevernull/yaf_plus_plus.git YOURWEBROOT
     cd YOURWEBROOT/yaf_plus_plus
