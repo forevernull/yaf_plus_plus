@@ -1,5 +1,5 @@
 # yaf++
-yaf++ is one advanced web [application] framework.
+yaf++ is one advanced web [application] framework. It's a out-of-the-box [yaf](https://github.com/laruence/yaf).
 
 ## Getting started
 - Use `composer` & `bower` to intall all needed packages 
