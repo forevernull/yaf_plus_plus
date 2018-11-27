@@ -2,11 +2,11 @@
 yaf++ is one advanced web [application] framework. It's a out-of-the-box [yaf](https://github.com/laruence/yaf).
 
 ## Getting started
-- Use `composer` & `bower` to intall all needed packages 
+- Use `composer` & `yarn` to intall all needed packages.`bower` deprecated!
 ```
     git clone git@github.com:forevernull/yaf_plus_plus.git YOURWEBROOT
-    cd YOURWEBROOT/yaf_plus_plus
-    bower install
+    cd YOURWEBROOT
+    yarn install
     composer install 
 ```
 - Modefy your nginx configuration like this
