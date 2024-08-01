@@ -7,7 +7,7 @@
   "author": "forevernull",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "4.1.2",
+    "bootstrap": "5.0.0",
     "font-awesome": "4.7.0",
     "gentelella": "1.4.0",
     "jquery": "3.5.1",
